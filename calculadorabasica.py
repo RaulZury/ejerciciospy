@@ -5,5 +5,8 @@ try:
     
     a3 = int(input("Añade tu segundo número:" ))
 
+    r = a2 + a3
+
+    print(f"el resultado es {r}")
 except:
     print("Asi no animal")
